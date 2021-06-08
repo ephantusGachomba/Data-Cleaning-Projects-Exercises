@@ -41,4 +41,4 @@ This repository contains Solely the Independent Projects used at Moringa Core ru
 
 ## License
 the above materials are for educational purposes only
-[MIT](https://choosealicense.com/licenses/unlicense/)
+[MIT](https://choosealicense.com/licenses/gpl-3.0/)
